@@ -8,4 +8,4 @@ print(call)
 
 #this function add more functionality
 
-print($'the total price is {call}')
+
