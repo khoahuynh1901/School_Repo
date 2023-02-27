@@ -5,3 +5,7 @@ def function ( apple, orange ,banana):
 	return total
 total_price = function(10,6,5)
 print(total_price)
+
+# this how to use function to calute stuff
+
+
