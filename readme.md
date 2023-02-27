@@ -1,3 +1,1 @@
 
-# hello khoa
-# 2
