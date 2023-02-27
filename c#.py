@@ -1,4 +1,4 @@
-console.log("writeline")
-console.writeline("console.log")
+console.log("whateber")
+
 
 
